@@ -1,7 +1,7 @@
 - [x] Download the spectrum of each source
     - [x] Identifiy their ID or link for the AURORA survey.
     - [x] download the corresponding file
-- [ ] Obtain the JDA photometry to compare with that reported by Shapley and to input to the ETC
+- [x] Obtain the JDA photometry to compare with that reported by Shapley and to input to the ETC
 - [ ] Same as above for the r_e (circularized effective radius)
 - [ ] Run the corresponding ETC
 - [ ] Overplot the estimated S/N
